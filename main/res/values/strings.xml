@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">fragment_app</string>
+    <string-array name="data_list">
+        <item>odin</item>
+        <item>dva</item>
+        <item>tri</item>
+        <item>chetire</item>
+        <item>piat</item>
+    </string-array>
+</resources>
